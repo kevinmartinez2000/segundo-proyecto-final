@@ -1,0 +1,29 @@
+.navbar{
+    display: flex;
+    background-color: blueviolet;
+    
+}
+.texto-h1{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    
+}
+.lista-1{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    padding: 20px;
+    text-decoration: none;
+    
+}
+.item-1{
+    padding: 20px;
+    font-size: 20px;
+}
+.item-1:hover{
+    transform: scale(2);
+    color: rgb(192, 124, 255);
+}

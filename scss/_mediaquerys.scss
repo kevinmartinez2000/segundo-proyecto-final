@@ -1,0 +1,81 @@
+@media screen and (max-width:425px) {
+    .caja-grid{
+        grid-template-columns: repeat(1,1fr);
+        grid-template-rows: repeat(1,1fr);
+    }
+    .img-1{
+        width: 230px;
+        height: 150px;
+        border-radius:20px;
+        border: solid 5px blueviolet;
+        margin: auto;
+    }
+    .img-2{
+        width: 230px;
+        height: 150px;
+         border-radius:20px;
+        border: solid 5px blueviolet;
+    }
+    .img-3{
+        width: 230px;
+        height: 150px;
+         border-radius:20px;
+        border: solid 5px blueviolet;
+    }
+    .img-4{
+        width: 230px;
+        height: 150px;
+         border-radius:20px;
+        border: solid 5px blueviolet;
+    }
+    .item-1{
+        font-size: 20px;
+        padding: 2px;
+    }
+    .lista-1{
+        display: block;
+        list-style: none;
+        width: 100%;
+        padding: 5px;
+        text-decoration: none;
+        text-align: center;
+    }
+    .navbar{
+        background-color: $color-primario;
+    }
+    .footer{
+        background-color: $color-primario;
+    }
+    body{
+        background-color: $color-secundario;
+    }
+
+}
+@keyframes burbujas{
+    0%{
+        bottom:0;
+        opacity: 0;
+    }
+    30%{
+        transform: translateX(30px)
+    }
+    50%{
+        opacity: .4;
+    }
+    100%{
+        bottom: 100vh; 
+        opacity: 0;
+    }
+}
+@keyframes movimiento {
+    0%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(30px);
+    }
+    100%{
+        transform: translateY(0);
+    }
+
+} 
