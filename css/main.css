@@ -108,7 +108,8 @@ body {
   justify-content: space-between;
   align-items: center;
   height: 100%;
-  flex-wrap: wrap; }
+  flex-wrap: wrap;
+  padding: 10%; }
 
 .banner_title h2 {
   color: aliceblue;
