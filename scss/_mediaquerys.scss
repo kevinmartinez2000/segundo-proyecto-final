@@ -41,13 +41,13 @@
         text-align: center;
     }
     .navbar{
-        background-color: $color-primario;
+        background-color: map-get($colores , "color-primario" );
     }
     .footer{
-        background-color: $color-primario;
+        background-color: map-get($colores , "color-primario" );
     }
     body{
-        background-color: $color-secundario;
+        background-color: map-get($colores, "color-secundario" )
     }
 
 }
@@ -77,11 +77,5 @@
     100%{
         transform: translateY(0);
     }
-
 } 
-@media screen and (max-width:750px){
-    .banner{
-       flex-direction: column;
-       padding-bottom: 50px;
-    }
-}
+

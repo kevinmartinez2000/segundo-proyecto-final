@@ -1,0 +1,4 @@
+@mixin body ($bgcolor){
+    background-color: $bgcolor;
+    width: 100%; 
+}
