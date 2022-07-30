@@ -1,6 +1,6 @@
 .navbar{
     display: flex;
-    background-color: blueviolet;
+    background-color:map-get($colores, "color-violeta" );
     
 }
 .texto-h1{
@@ -10,17 +10,15 @@
     color: map-get($colores, "color-alternativo" );
     
 }
-.lista-1{
-    display: flex;
-    list-style: none;
-    justify-content: center;
-    width: 100%;
-    align-items: center;
-    padding: 20px;
-    text-decoration: none;
-    
-    
-}
+// .lista-1{
+//     display: flex;
+//     list-style: none;
+//     justify-content: center;
+//     width: 100%;
+//     align-items: center;
+//     padding: 20px;
+//     text-decoration: none;  
+// }
 .item-1{
     padding: 20px;
     font-size: 20px;
@@ -32,4 +30,7 @@
 }
 .h1-index{
     color: map-get($colores, "color-alternativo" );
+}
+.lista-1{
+    @extend %lista-1
 }

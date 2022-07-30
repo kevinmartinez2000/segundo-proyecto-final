@@ -2,3 +2,12 @@
     background-color: $bgcolor;
     width: 100%; 
 }
+%lista-1{
+    display: flex;
+    list-style: none;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+    padding: 20px;
+    text-decoration: none;  
+}
