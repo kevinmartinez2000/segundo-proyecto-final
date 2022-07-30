@@ -1,0 +1,29 @@
+Index
+
+keyword:viaje,busco forma de viaje,quiero viajar,donde viajar,viaje rapido,vacaciones,viaje a buenos aires,viaje a santa fe,viaje a mendoza,viaje a cordoba
+titulo:Viaje | Inicio
+descripcion:empresa de viaje,dedicada a buscar tu viaje soñado con las mejores ofertas y precios del mercado,contamos con toda la atencion que necesites y con mas de 100 aviones destinado para tu comodidad hacia el punto de viajes que prefieras
+
+Servicios
+
+keyword:servicios de viajes,viaje,busco forma de viaje,quiero viajar,donde viajar,viaje rapido,vacaciones,viaje a buenos aires,viaje a santa fe,viaje a mendoza,viaje a cordoba
+titulo:Viaje | Servicios
+descripcion:empresa de viaje,dedicada a buscar tu viaje soñado con las mejores ofertas y precios del mercado,contamos con toda la atencion que necesites y con mas de 100 aviones destinado para tu comodidad hacia el punto de viajes que prefieras
+
+Quienes Somos
+
+keyword:quienes son tus viajes,viaje,busco forma de viaje,quiero viajar,donde viajar,viaje rapido,vacaciones,viaje a buenos aires,viaje a santa fe,viaje a mendoza,viaje a cordoba
+titulo:Viaje | Quienes Somos
+descripcion:empresa de viaje,dedicada a buscar tu viaje soñado con las mejores ofertas y precios del mercado,contamos con toda la atencion que necesites y con mas de 100 aviones destinado para tu comodidad hacia el punto de viajes que prefieras
+
+Ofertas
+
+keyword:ofertas de viajes,viaje,busco forma de viaje,quiero viajar,donde viajar,viaje rapido,vacaciones,viaje a buenos aires,viaje a santa fe,viaje a mendoza,viaje a cordoba
+titulo:Viaje | Ofertas
+descripcion:empresa de viaje,dedicada a buscar tu viaje soñado con las mejores ofertas y precios del mercado,contamos con toda la atencion que necesites y con mas de 100 aviones destinado para tu comodidad hacia el punto de viajes que prefieras
+
+Contacto
+
+keyword:contactos,viaje,busco forma de viaje,quiero viajar,donde viajar,viaje rapido,vacaciones,viaje a buenos aires,viaje a santa fe,viaje a mendoza,viaje a cordoba
+titulo:Viaje | Contacto
+descripcion:empresa de viaje,dedicada a buscar tu viaje soñado con las mejores ofertas y precios del mercado,contamos con toda la atencion que necesites y con mas de 100 aviones destinado para tu comodidad hacia el punto de viajes que prefieras
