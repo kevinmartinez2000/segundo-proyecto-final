@@ -40,6 +40,12 @@ body {
   background-color: black;
   width: 100%; }
 
+.anchor {
+  color: white; }
+
+.redes-sociales {
+  text-decoration: none; }
+
 .caja-grid {
   margin: 10px;
   display: grid;
@@ -47,11 +53,16 @@ body {
   grid-template-rows: repeat(2, 1fr);
   gap: 20px; }
 
+.grid-1 {
+  display: flex;
+  flex-direction: column; }
+
 .texto-h3 {
   background-color: rgba(205, 88, 231, 0.713);
   text-align: center;
-  width: 50%;
-  color: white; }
+  width: 75%;
+  color: white;
+  margin: auto; }
 
 .img-1 {
   width: 300px;
@@ -64,19 +75,22 @@ body {
   width: 300px;
   height: 230px;
   border-radius: 20px;
-  border: solid 5px blueviolet; }
+  border: solid 5px blueviolet;
+  margin: auto; }
 
 .img-3 {
   width: 300px;
   height: 230px;
   border-radius: 20px;
-  border: solid 5px blueviolet; }
+  border: solid 5px blueviolet;
+  margin: auto; }
 
 .img-4 {
   width: 300px;
   height: 230px;
   border-radius: 20px;
-  border: solid 5px blueviolet; }
+  border: solid 5px blueviolet;
+  margin: auto; }
 
 .ima-hover:hover {
   transform: scale(1.2);
@@ -113,8 +127,7 @@ body {
   justify-content: space-between;
   align-items: center;
   height: 100%;
-  flex-wrap: wrap;
-  padding: 10%; }
+  flex-wrap: wrap; }
 
 .banner_title h2 {
   color: aliceblue;
@@ -139,7 +152,9 @@ body {
   display: block;
   border: solid 5px black;
   border-radius: 25px;
-  box-shadow: 5px 8px 12px black; }
+  box-shadow: 5px 8px 12px black;
+  margin: 10px;
+  height: 400px; }
 
 /* burbujas */
 .burbujas {
@@ -180,8 +195,11 @@ body {
   color: white;
   border: solid 5px blueviolet;
   margin: 5px;
-  text-align: center;
   padding: 10px; }
+
+.p-qs {
+  width: 60%;
+  text-align: center; }
 
 .form-contacto {
   display: flex;
@@ -276,7 +294,15 @@ body {
     font-size: 20px;
     background-color: black;
     color: aliceblue;
-    margin: 0px; } }
+    margin: 0px; }
+  .banner_img img {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    border: solid 5px black;
+    border-radius: 25px;
+    box-shadow: 5px 8px 12px black;
+    height: 300px; } }
 
 @keyframes burbujas {
   0% {

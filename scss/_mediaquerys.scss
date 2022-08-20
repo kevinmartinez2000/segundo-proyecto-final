@@ -63,6 +63,16 @@
         color: aliceblue;
         margin: 0px;
     }
+    
+    .banner_img img {
+        width: 100%;
+        max-width: 500px;
+        display: block;
+        border: solid 5px black;
+        border-radius: 25px;
+        box-shadow: 5px 8px 12px black;
+        height: 300px;
+    }
 
 }
 @keyframes burbujas{
